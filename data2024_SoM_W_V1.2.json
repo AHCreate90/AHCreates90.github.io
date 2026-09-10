@@ -5,7 +5,7 @@
   "appVersion": 2,
   "update": {
     "manifestUrl": "https://AHCreates90.github.io/SoM_W.update.json",
-    "contentVersion": "MESBG-shadow-of-mordor-V1.2"}
+    "contentVersion": "MESBG-shadow-of-mordor-V1.2"},
   "disallowMultipleFactions": true,
   "colors": {
     "light": {
